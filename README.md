@@ -7,12 +7,12 @@
 > 动态效果图见公众号
 
 
-今天画佩奇的库是 turtle，之前我用 turtle 这个库画过五星红旗 https://dwz.cn/GLhIHCiQ
+今天画佩奇的库是 turtle，之前我用 turtle 这个库画过五星红旗 [turtle 画五星红旗](https://dwz.cn/GLhIHCiQ)
 
 > 动态效果图见公众号
 
 
-之前我也用 turtle 库一行代码画出了美丽的螺旋：https://dwz.cn/e0FZSWix
+之前我也用 turtle 库一行代码画出了美丽的螺旋：[turtle 画美丽的螺旋](https://dwz.cn/e0FZSWix)
 
 > 动态效果图见公众号
 
