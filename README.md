@@ -4,7 +4,7 @@
 
 也可以通过微信联系我。
 
-![微信](https://github.com/Brucepk/pk.github.io/blob/master/wx.jpg)
+![微信](https://github.com/Brucepk/pk.github.io/blob/master/pkwx.jpg)
 
 昨晚和今天，朋友圈被一则走心的广告刷屏了。很多伙伴直呼：看哭了。当爷爷电话里听到「不回来啊」的打击是很沉重的，一位父亲想念自己的儿子和孙子，总想把最好的给他们。
 
